@@ -1,0 +1,14 @@
+Makefile
+a.out
+dragonshell
+dragonshell.c
+dragonshell.cc
+dragonshell.o
+dragonshell_1.cc
+gay.txt
+make
+readme.md
+rude.txt
+testfolder
+text.txt
+text34.txt

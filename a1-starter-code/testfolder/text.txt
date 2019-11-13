@@ -1,0 +1,7 @@
+-std=c++11
+a.out
+function
+function.cc
+helloworld.cc
+testfolder2
+text.txt
